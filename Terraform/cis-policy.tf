@@ -38,7 +38,7 @@ resource "aws_s3_bucket_public_access_block" "secure_block" {
   restrict_public_buckets = true
 }
 
-EC2 Policy
+# EC2 Policy
 resource "aws_instance" "cis_server" {
   ami           = "ami-0c02fb55956c7d316"
   instance_type = "t2.micro"
