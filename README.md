@@ -1,1 +1,1 @@
-# Automated-Policy-Enforcement-using-IaC-Code-in-CI-CD-Pipeline
+# Automated-CIS-Policy-Enforcement-using-IaC-Code-in-CI-CD-Pipeline
